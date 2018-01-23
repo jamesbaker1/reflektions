@@ -1,3 +1,0 @@
-## Reflektions App Landing Page
-
-
