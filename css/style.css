@@ -149,7 +149,7 @@ p {
 .header {
     background: url(../images/home.jpg);
     /* background-size: 10% 30%; */
-    background-size: contain;
+    background-size: cover;
 	background-repeat: no-repeat;
 }
 .header .section_overlay {
